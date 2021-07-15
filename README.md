@@ -1,6 +1,6 @@
 ### Hello, I am Praveen Sivakumar 👋
 
-I'm an enthusiastic computer science student who loves software and solving puzzles.   
+### I'm an enthusiastic computer science student who loves software and solving puzzles.   
 
 ### GitHub Stats
 
