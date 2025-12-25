@@ -1,3 +1,5 @@
-# Hi, I'm Praveen
+# Hi, I’m Praveen 👋
 
-Open to collaborate on exciting AI projects
+I’m an **AI & engineering enthusiast** who loves building exciting stuff
+
+Always learning, always building, and **open to collaborating** on interesting ideas.
