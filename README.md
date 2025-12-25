@@ -1,5 +1,5 @@
 # Hi, I’m Praveen 👋
 
-I’m an **AI & engineering enthusiast** who enjoys building exciting stuff
+I’m an **AI & engineering enthusiast** who enjoys building exciting stuff.  
 
-Explorer of ideas, seeker of cool projects, and **open to collaborating** on interesting ideas.
+Explorer of ideas, maker of cool projects, and **always open to collaboration**.
