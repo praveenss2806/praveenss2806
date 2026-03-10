@@ -13,20 +13,12 @@
 
 > I build AI-powered tools that solve my own problems — then share them with the world. Currently deep in agentic engineering, turning ideas into working software at ludicrous speed.
 
-## Current Projects
+## Projects
 
 - 🎬 **[Explainer Video Generator](https://github.com/praveenss2806/explainer_video_generator)** — From a single prompt to a full explainer video, powered by AI
 - 🧠 **[ThinkNote MCP](https://github.com/praveenss2806/thinknote_mcp)** — A thinking notes app for ChatGPT, built as an MCP server
 - 🎨 **[Generative UI Playground](https://github.com/praveenss2806/generative_ui_playground)** — AI-driven generative UI experiments
 - 📊 **[Startup Analyst Agent](https://github.com/praveenss2806/startup_analyst_agent)** — AI agent that analyzes startups, built for the Google GenAI Hackathon
-
-## Other Projects
-
-- 🏓 **[TT Score Tracker](https://github.com/praveenss2806/TT_Score_Tracker)** — Table tennis score tracking app built with Kotlin
-- 🗺️ **[Theft Catching](https://github.com/praveenss2806/Theft-Catching)** — Shortest path finder using A* algorithm
-- 📝 **[Algorithmic Toolbox Solutions](https://github.com/praveenss2806/Algorithmic-Toolbox-Solutions)** — Solutions for Coursera's Algorithmic Toolbox course in C++
-- 🎬 **[FlixHive](https://github.com/praveenss2806/FlixHive)** — Movie discovery app
-- 📖 **[Interactive Story Backend](https://github.com/praveenss2806/interactive_story_backend)** — FastAPI backend for interactive storytelling
 
 ## What I'm Up To
 
@@ -36,8 +28,8 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@praveenss2806-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/praveenss2806)
-[![LinkedIn](https://img.shields.io/badge/-Praveen_Sivakumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-sivakumar-s/)
+[![X](https://img.shields.io/badge/-@praveenss2806-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/praveenss2806)
+[![LinkedIn](https://img.shields.io/badge/-Praveen_Sivakumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-sivakumar-s/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenss2806)
 
 ---
