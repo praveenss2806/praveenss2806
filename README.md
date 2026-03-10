@@ -22,7 +22,7 @@
 
 ## What I'm Up To
 
-- **Building AI-first tools** — Solving my own pain points with agentic engineering
+- **Building AI-first systems** — Solving my own pain points with agentic engineering
 - **Exploring agents, MCPs, skills & CLIs** — Diving deep into agentic workflows, MCP servers, and command-line tools
 - **Shipping fast** — Ideas to working products, not slide decks
 
@@ -36,7 +36,7 @@
 
 ### Philosophy
 
-> "Build what scratches your own itch — the best tools come from real problems."
+> "Build what scratches your own itch — the best products come from real problems."
 
 <details>
 <summary>Random Facts</summary>
