@@ -11,7 +11,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> I build AI-powered tools that solve my own problems — then share them with the world. Currently deep in agentic engineering, turning ideas into working software at ludicrous speed.
+> I build AI-powered systems that solve my own problems — then share them with the world. Currently deep in agentic engineering, turning ideas into working software at ludicrous speed.
 
 ## Projects
 
