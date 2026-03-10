@@ -15,6 +15,7 @@
 
 ## Projects
 
+- 🎯 **[Intent YouTube Extension](https://github.com/praveenss2806/intent-youtube-extension)** — Chrome extension to stay intentional on YouTube
 - 🎬 **[Explainer Video Generator](https://github.com/praveenss2806/explainer_video_generator)** — From a single prompt to a white-board style explainer video, powered by AI
 - 🧠 **[ThinkNote MCP](https://github.com/praveenss2806/thinknote_mcp)** — A thinking notes app for ChatGPT, built as an MCP server
 - 🎨 **[Generative UI Playground](https://github.com/praveenss2806/generative_ui_playground)** — AI-driven generative UI experiments
